@@ -1,7 +1,7 @@
 # Perro Viejo: programando como antigamente
 Este projeto pretende disponibilizar um conjunto autocontido de ferramentas para desenvolvimento de [demos](https://en.wikipedia.org/wiki/Demoscene) como no início dos anos 1990:
 
-* Plataforma alvo: MS-DOS com 386/486 (ou DOSBox)
+* Plataforma alvo: 386/486 com até 8mb RAM e MS-DOS (ou DOSBox), Gravis Ultrasound ou Sound Blaster
 * Compilador C/C++/ASM
 * Biblioteca de som com suporte a arquivos MOD/S3M
 * Biblioteca gráfica para o modo 0x13 (320x200 256 cores)
